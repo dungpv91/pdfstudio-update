@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.3",
-  "release_notes": "- Tối ưu hóa giao diện.\n- Tối ưu khả năng chèn chữ.",
-  "download_url": "https://github.com/dungpv91/pdfstudio-update/releases/download/v1.0.3/Setup_PDFStudio_v1.0.3.exe"
+  "latest_version": "1.0.4",
+  "release_notes": "- Tối ưu hóa giao diện.\n- Có thể chọn, copy văn bản, bắt link trực tiếp.",
+  "download_url": "https://github.com/dungpv91/pdfstudio-update/releases/download/v1.0.4/Setup_PDFStudio_v1.0.4.exe"
 }
