@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0.6",
-  "release_notes": "- Tối ưu hóa giao diện trang chủ.\n- Có thể chọn, copy văn bản, bắt link trực tiếp.",
+  "release_notes": "- Tối ưu hóa giao diện trang chủ.\n- Hỗ trợ đa tab trên cùng giao diện.",
   "download_url": "https://github.com/dungpv91/pdfstudio-update/releases/download/v1.0.6/Setup_PDFStudio_v1.0.6.exe"
 }
